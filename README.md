@@ -7,9 +7,13 @@ I'm a Data Scientist who believes that every data set has a story to tell.I am h
 
 ## Technologies Used
 📚 Python
+
 📊 Pandas, NumPy, scikit-learn for data manipulation and analysis
+
 💻 TensorFlow, Keras, PyTorch for machine learning and deep learning
+
 📈 Matplotlib, Seaborn, Plotly for data visualization
+
 📜 Jupyter Notebook for interactive development and documentation
 
 - 👀 I’m into NLP 🤗
