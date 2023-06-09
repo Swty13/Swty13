@@ -3,17 +3,20 @@
 
 ![giphy-preview_girl](https://user-images.githubusercontent.com/51474025/236671524-f55a6c45-ffbc-4600-b83a-688435b1e245.gif)
 
-I'm a Data Scientist who believes that every data set has a story to tell.I am here to learn and share knowledge with other passionate individuals who are constantly striving to push the boundaries of what's possible. By collaborating with like-minded developers, I hope to not only expand my own knowledge and skill set but also contribute to the larger community and make a positive impact on the world around us.
+I'm a Data Scientist who believes that every data set has a story to tell.I am here to learn and share knowledge with other passionate individuals who are constantly striving to push the boundaries of what's possible. By collaborating with like-minded developers, I hope to not only expand my own knowledge and skill set but also contribute to the larger community and make a positive impact on the world around us ⚡️✨.
 
-- 👀 I’m interested in Machine Learning,NLP,NLI,NLG ,Vector space Visualization,Embedding Generation.
-- 🌱 I’m into Transformer Models 🤗
-- Currently Exploring ChatGPT and LLM 
+## Technologies Used
+📚 Python
+📊 Pandas, NumPy, scikit-learn for data manipulation and analysis
+💻 TensorFlow, Keras, PyTorch for machine learning and deep learning
+📈 Matplotlib, Seaborn, Plotly for data visualization
+📜 Jupyter Notebook for interactive development and documentation
+
+- 👀 I’m into NLP 🤗
+- 🤖 Currently Exploring ChatGPT and LLM 
 
 
 ##  - 📫 Reached me at :
-
-
-![Me_AdobeExpress](https://user-images.githubusercontent.com/51474025/236671648-ff3330bb-59c3-4f2b-820a-8683af5a0718.gif)
 
  * [LinkedIn](https://www.linkedin.com/in/sweety-tripathi/)
  
