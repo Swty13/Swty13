@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Sweety
 
-![Me_AdobeExpress](https://user-images.githubusercontent.com/51474025/236671648-ff3330bb-59c3-4f2b-820a-8683af5a0718.gif)
+![giphy-preview_girl](https://user-images.githubusercontent.com/51474025/236671524-f55a6c45-ffbc-4600-b83a-688435b1e245.gif)
 
 I'm a Data Scientist who believes that every data set has a story to tell.I am here to learn and share knowledge with other passionate individuals who are constantly striving to push the boundaries of what's possible. By collaborating with like-minded developers, I hope to not only expand my own knowledge and skill set but also contribute to the larger community and make a positive impact on the world around us.
 
@@ -12,7 +12,8 @@ I'm a Data Scientist who believes that every data set has a story to tell.I am h
 
 ##  - 📫 Reached me at :
 
-![giphy-preview_girl](https://user-images.githubusercontent.com/51474025/236671524-f55a6c45-ffbc-4600-b83a-688435b1e245.gif)
+
+![Me_AdobeExpress](https://user-images.githubusercontent.com/51474025/236671648-ff3330bb-59c3-4f2b-820a-8683af5a0718.gif)
 
  * [LinkedIn](https://www.linkedin.com/in/sweety-tripathi/)
  
